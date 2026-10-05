@@ -1,3 +1,5 @@
+> **This repository is no longer maintained.** Use [nawta/TalkNet-ASD_legacy](https://github.com/nawta/TalkNet-ASD_legacy) instead. It includes the pandas dependency and CPU support from this repository, and it runs on Python 3.12 with PyTorch 2 on CUDA, Apple MPS, or CPU.
+
 ## Is someone talking? TalkNet: Audio-visual active speaker detection Model
 
 This repository contains the code for our ACM MM 2021 paper (oral), TalkNet, an active speaker detection model to detect 'whether the face in the screen is speaking or not?'. [[Paper](https://arxiv.org/pdf/2107.06592.pdf)]    [[Video_English](https://youtu.be/C6bpAgI9zxE)]    [[Video_Chinese](https://www.bilibili.com/video/bv1Yw411d7HG)].
