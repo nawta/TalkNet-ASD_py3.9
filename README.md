@@ -1,4 +1,4 @@
-> **This repository is no longer maintained.** Use [nawta/TalkNet-ASD_legacy](https://github.com/nawta/TalkNet-ASD_legacy) instead. It includes the pandas dependency and CPU support from this repository, and it runs on Python 3.12 with PyTorch 2 on CUDA, Apple MPS, or CPU.
+> **This repository is no longer maintained.** Use [nawta/TalkNet-ASD-py312](https://github.com/nawta/TalkNet-ASD-py312) instead. It includes the pandas dependency and CPU support from this repository, and it runs on Python 3.12 with PyTorch 2 on CUDA, Apple MPS, or CPU.
 
 ## Is someone talking? TalkNet: Audio-visual active speaker detection Model
 
